@@ -2,7 +2,7 @@
 
 ### ABSTRACT 
 
-    This paper aims to understand the population growth trend in the Charleston area over
+> This paper aims to understand the population growth trend in the Charleston area over
 recent years through the lens of transaction costs. The study draws on theories of new
 institutional economics, present migration, and urban economics. This study surveyed 163
 participants to determine whether population growth in Charleston could be attributed to lower
@@ -11,7 +11,7 @@ found that while the population in Charleston has increased significantly in rec
 majority of the analyzed market transaction costs rose when people moved there, compared to
 where they lived previously. To be more specific, transaction costs for time decreased after
 people moved to Charleston.
-    In contrast, transaction costs related to coordination, research, accessibility, and social
+> In contrast, transaction costs related to coordination, research, accessibility, and social
 and community factors increased after moving to the Charleston area. Given the nature of
 transaction costs, when they grow, they act as a barrier to the market. When that knowledge is
 applied to the Charleston area, transaction costs did not affect migration levels, as this study
